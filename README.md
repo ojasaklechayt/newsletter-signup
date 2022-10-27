@@ -29,3 +29,8 @@ npm install body-parser
 ```
 npm install -g nodemon
 ```
+
+### Install Request
+```
+npm install request 
+```
